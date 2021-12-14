@@ -1,2 +1,0 @@
-# StoreSites
-StoreSites android application
